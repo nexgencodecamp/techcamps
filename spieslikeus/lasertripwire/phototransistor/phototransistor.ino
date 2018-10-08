@@ -1,4 +1,4 @@
-// Project 9– Light the lamp
+// Project 1 – Photo transistor
 
 #include "pitches.h"
 
